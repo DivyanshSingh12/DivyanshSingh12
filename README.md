@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divyansh Singh
 - 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on designing useful softwares
 
 <!---
